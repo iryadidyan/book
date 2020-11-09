@@ -1,0 +1,136 @@
+{
+ "bookProperties": {
+  "pages": {
+   "elements": {
+    "page": [
+     {
+      "links": {},
+      "id": {
+       "value": "1"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "2"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "3"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "4"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "5"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "6"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "7"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "8"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "9"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "10"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "11"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "12"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "13"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "14"
+      }
+     }]
+   },
+   "defaultValue": {
+    "BGColor": {
+     "value": "13421772"
+    },
+    "width": {
+     "value": "618"
+    },
+    "height": {
+     "value": "800"
+    }
+   }
+  },
+  "bookName": {
+   "value": ""
+  },
+  "bookLang": {
+   "value": "en"
+  },
+  "bookHeight": {
+   "value": "800"
+  },
+  "slideshowVisible": {
+   "value": "true"
+  },
+  "tocVisible": {
+   "value": "true"
+  },
+  "bookWidth": {
+   "value": "618"
+  },
+  "searchIndex": {
+   "ext": "other\/search.txt"
+  },
+  "bookmarksVisible": {
+   "value": "true"
+  },
+  "bookId": {
+   "value": "{CEFD1F6D-3A71-4EA5-BE46-FCA9D286BCAF}"
+  },
+  "bookBG": {
+   "src": "other\/background.jpg",
+   "width": "618",
+   "height": "800",
+   "scale": "scale",
+   "color": "13421772"
+  }
+ },
+ "tableOfContent": {
+  "tocData": {
+   "pageNumber": {
+    "value": "1"
+   },
+   "children": {},
+   "title": {
+    "value": ""
+   }
+  }
+ }
+}
